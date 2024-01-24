@@ -1,1 +1,4 @@
 we are learning git
+
+we r writing lines to show 
+net version
